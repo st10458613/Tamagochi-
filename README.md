@@ -14,3 +14,6 @@ click the play button to play with your pet
 
 
 After pressing each button , the pets status will change 
+
+
+https://www.youtube.com/watch?app=desktop&si=0NThlpR3pzrkTglG&v=hNyDRrtN7po&feature=youtu.be
